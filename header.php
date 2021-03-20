@@ -15,7 +15,9 @@
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/favicon/192x192.png">
     <link rel="canonical" href="https://getbootstrap.com/docs/5.0/examples/dashboard/">
+    <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
 
+      <script src="https://cdn.jsdelivr.net/npm/feather-icons@4.28.0/dist/feather.min.js" integrity="sha384-uO3SXW5IuS1ZpFPKugNNWqTZRRglnUJK6UAZ/gxOX80nxEkN9NcGZTftn6RzhGWE" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js" integrity="sha384-zNy6FEbO50N+Cg5wap8IKA4M/ZnLJgzc6w2NqACZaK0u0FXfOWRRJOnQtpZun8ha" crossorigin="anonymous"></script><script src="dashboard.js"></script>
 
     <!-- Bootstrap core CSS -->
     <link href="../assets/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -81,13 +83,13 @@ img {
           </a>
         </h6>    
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="mementos.php">
               <span data-feather="bar-chart-2"></span>
               Mementos & Requests
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="calculator.php">
+            <a class="nav-link" href="fusion-calculator.php">
               <span data-feather="shopping-cart"></span>
               Persona Fusion Calculator
             </a>
@@ -99,25 +101,25 @@ img {
           </a>
         </h6>         
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="social-stats.php">
               <span data-feather="file-text"></span>
               Social Stats
             </a>
           </li> 
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="confidants.php">
               <span data-feather="file-text"></span>
               Confidant Guides
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="gifts.php">
               <span data-feather="file-text"></span>
               Gift Giving Guide
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="hangouts.php">
               <span data-feather="file-text"></span>
               Hangout Spots
             </a>
@@ -129,31 +131,31 @@ img {
           </a>
         </h6>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="weekly-events.php">
               <span data-feather="layers"></span>
               Weekly Events
             </a>
           </li> 
           <li class="nav-item">
-            <a class="nav-link" href="examguide.php">
+            <a class="nav-link" href="exam-guide.php">
               <span data-feather="file"></span>
               School Exam/Quiz Guide
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="jobs.php">
               <span data-feather="layers"></span>
               Part-Time Jobs
             </a>
           </li> 
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="books-dvds.php">
               <span data-feather="layers"></span>
               Books & DVDs
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">
+            <a class="nav-link" href="games.php">
               <span data-feather="layers"></span>
               Video Games
             </a>
