@@ -60,6 +60,4 @@
 
   <iframe class="embed-responsive-item" src="https://chinhodado.github.io/persona5_calculator/"></iframe>
 
-
-  </body>
-</html>
+<?php include('footer.php'); ?>
