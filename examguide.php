@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<img src="img/s/October_Screenshot_2017_04_30_23_20_27.png" class="img-rounded img-responsive" alt="Responsive image" style="max-width:400px, height:auto; display:block;">
+<img src="img/s/October_Screenshot_2017_04_30_23_20_27.png" class="img-rounded img-responsive" alt="Responsive image" style="max-width:10%, height:auto; display:block;">
 
 
 

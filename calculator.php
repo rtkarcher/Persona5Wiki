@@ -17,16 +17,7 @@
     <script src="https://chinhodado.github.io/persona5_calculator/src/SkillListController.js"></script>
     <script src="https://chinhodado.github.io/persona5_calculator/src/SettingController.js"></script>
     <script src="https://chinhodado.github.io/persona5_calculator/src/App.js"></script>
-    <script>
-        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-        ga('create', 'UA-38672868-11', 'auto');
-        ga('send', 'pageview');
-    </script>
-    <script data-ad-client="ca-pub-8564595162671342" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/reset.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/site.min.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/table.min.css">
@@ -56,13 +47,12 @@
     
     <!-- Custom styles for this template -->
     <link href="dashboard.css" rel="stylesheet">
-  </head>
-  <body>
+
 
 
     <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
       <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
-        <h1 class="h2">Dashboard</h1>
+        <h1 class="h2">Under Construction: <a href="https://github.com/chinhodado/persona5_calculator" target="_blank">Persona Fusion Calculator by chinhodado</a></h1>
         <div class="btn-toolbar mb-2 mb-md-0">
         </div>
       </div>
