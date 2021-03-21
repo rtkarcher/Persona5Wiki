@@ -9,7 +9,8 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-title" content="Persona 5 Wiki">
 
-    <title>Persona 5 Wiki</title>
+
+    <title>Persona 5 Fusion Calculator</title>
     <link rel="icon" sizes="192x192" href="img/favicon/192x192.png">
     <link rel="icon" href="img/favicon/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
@@ -49,6 +50,44 @@ img {
     
     <!-- Custom styles for this template -->
     <link href="dashboard.css" rel="stylesheet">
+
+
+    <meta name="theme-color" content="#B71C1C">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Persona 5 Fusion Calculator">
+    <link rel="icon" sizes="192x192" href="img/favicon/192x192.png">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" href="img/favicon/192x192.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sticky-table-headers/0.1.19/js/jquery.stickytableheaders.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular-route.min.js"></script>
+    <script src="calc/data/Data5.js"></script>
+    <script src="calc/data/PersonaData.js"></script>
+    <script src="calc/data/SkillData.js"></script>
+    <script>
+        var GLOBAL_IS_ROYAL = false;
+    </script>
+    <script src="calc/src/DataUtil.js"></script>
+    <script src="calc/src/FusionCalculator.js"></script>
+    <script src="calc/src/PersonaController.js"></script>
+    <script src="calc/src/PersonaListController.js"></script>
+    <script src="calc/src/SkillListController.js"></script>
+    <script src="calc/src/SettingController.js"></script>
+    <script src="calc/src/App.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/reset.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/site.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/table.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/button.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/input.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/container.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/checkbox.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.10/components/form.min.css">
+
+
   </head>
   <body>
     
@@ -89,7 +128,7 @@ img {
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="calc/index.html#/list">
+            <a class="nav-link" href="calc/">
               <span data-feather="shopping-cart"></span>
               Persona Fusion Calculator
             </a>
