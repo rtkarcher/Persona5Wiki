@@ -19,133 +19,181 @@
         </div>
       </div>
 
-      <canvas class="my-4 w-100" id="myChart" width="900" height="380"></canvas>
-
-      <h2>Section title</h2>
       <div class="table-responsive">
-        <table class="table table-striped table-sm">
+        <table class="table table-dark table-striped table-sm table-bordered">
           <thead>
             <tr>
-              <th>#</th>
-              <th>Header</th>
-              <th>Header</th>
-              <th>Header</th>
-              <th>Header</th>
+              <th>Date</th>
+              <th>Question</th>
+              <th>Answer</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>1,001</td>
-              <td>random</td>
-              <td>data</td>
-              <td>placeholder</td>
-              <td>text</td>
+              <td> 4/12 </td>
+              <td> A soul is composed of appetite, spirit, and what else? </td>
+              <td> Logic </td>                   
             </tr>
             <tr>
-              <td>1,002</td>
-              <td>placeholder</td>
-              <td>irrelevant</td>
-              <td>visual</td>
-              <td>layout</td>
+              <td> 4/19 </td>
+              <td> Is the line extending from A connected to B or C? Which is it? </td>
+              <td> C </td>
             </tr>
             <tr>
-              <td>1,003</td>
-              <td>data</td>
-              <td>rich</td>
-              <td>dashboard</td>
-              <td>tabular</td>
+              <td> 4/23 </td>
+              <td> What event did Emperor Nero add to the Olympics so he could participate? </td>
+              <td> Singing </td>
             </tr>
             <tr>
-              <td>1,003</td>
-              <td>information</td>
-              <td>placeholder</td>
-              <td>illustrative</td>
-              <td>data</td>
+              <td> 4/25 </td>
+              <td> What's the common usage of kakushinhan again, regarding an action you take? Knowing your actions are wrong. But the real kakushinhan is the opposite, right? So the opposite means... </td>
+              <td> Conviction that you're right </td>
             </tr>
             <tr>
-              <td>1,004</td>
-              <td>text</td>
-              <td>random</td>
-              <td>layout</td>
-              <td>dashboard</td>
+              <td> 4/27 </td>
+              <td> How many colors does it take to print every region without any two adjacent ones being the same color? </td>
+              <td> Four </td>
             </tr>
             <tr>
-              <td>1,005</td>
-              <td>dashboard</td>
-              <td>irrelevant</td>
-              <td>text</td>
-              <td>placeholder</td>
+              <td> 4/30 </td>
+              <td> Firstly, the "wunder" part probably means? </td>
+              <td> Wonder </td>
             </tr>
             <tr>
-              <td>1,006</td>
-              <td>dashboard</td>
-              <td>illustrative</td>
-              <td>rich</td>
-              <td>data</td>
+              <td>  </td>
+              <td> Next, the "kind" part means? </td>
+              <td> Child </td>
             </tr>
             <tr>
-              <td>1,007</td>
-              <td>placeholder</td>
-              <td>tabular</td>
-              <td>information</td>
-              <td>irrelevant</td>
+              <td> </td>
+              <td> So a "wunderkind" would be? </td>
+              <td> A prodigy </td>
             </tr>
             <tr>
-              <td>1,008</td>
-              <td>random</td>
-              <td>data</td>
-              <td>placeholder</td>
-              <td>text</td>
+              <td> 5/7 </td>
+              <td> What do people generally call a woman who has a charm that sometimes leads men to their doom? </td>
+              <td> A femme fatale </td>
             </tr>
             <tr>
-              <td>1,009</td>
-              <td>placeholder</td>
-              <td>irrelevant</td>
-              <td>visual</td>
-              <td>layout</td>
+              <td> 5/10 </td>
+              <td> What do you think is the origin of the term "magistrate's patronage?"
+
+ </td>
+              <td> Minamoto no Yoshitsune
+
+ </td>
             </tr>
             <tr>
-              <td>1,010</td>
-              <td>data</td>
-              <td>rich</td>
-              <td>dashboard</td>
-              <td>tabular</td>
+              <td> 5/11 </td>
+              <td> <strong>EXAMS</strong> </td>
+              <td>  </td>
             </tr>
             <tr>
-              <td>1,011</td>
-              <td>information</td>
-              <td>placeholder</td>
-              <td>illustrative</td>
-              <td>data</td>
+              <td>  </td>
+              <td> Although the line connects A to C it looks like it leads to B instead. What is this phenomenon called? </td>
+              <td> An optical illusion </td>
             </tr>
             <tr>
-              <td>1,012</td>
-              <td>text</td>
-              <td>placeholder</td>
-              <td>layout</td>
-              <td>dashboard</td>
+              <td>  </td>
+              <td> If how they're seeing things is different, it probably has to do with this sort of information... </td>
+              <td> Visual information </td>
             </tr>
             <tr>
-              <td>1,013</td>
-              <td>dashboard</td>
-              <td>irrelevant</td>
-              <td>text</td>
-              <td>visual</td>
+              <td>  </td>
+              <td> What takes the visual information from your eyes and processes it? </td>
+              <td> The brain </td>
             </tr>
             <tr>
-              <td>1,014</td>
-              <td>dashboard</td>
-              <td>illustrative</td>
-              <td>rich</td>
-              <td>data</td>
+              <td>  </td>
+              <td> The brain processes visual information. So, the reason why people see things differently is </td>
+              <td> They have different cognitions </td>
             </tr>
             <tr>
-              <td>1,015</td>
-              <td>random</td>
-              <td>tabular</td>
-              <td>information</td>
-              <td>text</td>
+              <td> 5/12 </td>
+              <td> EXAMS </td>
+              <td>  </td>
+            </tr>                                    
+            <tr>
+              <td>  </td>
+              <td> Which of the following expressions came from the name of the position that Minamoto no Yoshitsune held? </td>
+              <td> Magistrate's patronage </td>
             </tr>
+            <tr>
+              <td>  </td>
+              <td> What is the origin of the English word "talent?" </td>
+              <td> The name of a sum of currency </td>
+            </tr>
+            <tr>
+              <td> 5/13 </td>
+              <td> EXAMS </td>
+              <td>  </td>
+            </tr>
+            <tr>
+              <td>  </td>
+              <td> What did the Greek philosopher Socrates say that evil is born from? </td>
+              <td> Ignorance </td>
+            </tr>
+            <tr>
+              <td>  </td>
+              <td> What's the least number of colors needed to paint Japan so no two adjacent areas are the same color? </td>
+              <td> Four </td>
+            </tr>
+            <tr>
+              <td> 5/16 </td>
+              <td> Do you know who created the piece which sold for the highest price back in the 20th century? </td>
+              <td> Van Gogh </td>
+            </tr>
+            <tr>
+              <td> 5/21 </td>
+              <td> What is the name of this ratio that Japanese architects and artists have liked using? </td>
+              <td> The silver ratio </td>
+            </tr>  
+
+            <tr>
+              <td> 5/23 </td>
+              <td> The root words of synesthesia are "syn" and "aisthesis." What do they mean? </td>
+              <td> "Together" and "Seneses" </td>
+            </tr>  
+            <tr>
+              <td> 5/26 </td>
+              <td> What was the name of the other famous novel that Sherlock Holmes appeared in? </td>
+              <td> <em>Arsène Lupin, Gentleman Burglar</em> </td>
+            </tr>  
+            <tr>
+              <td> 5/30 </td>
+              <td> Who was the pirate who said that he hid his treasure in a certain place just before he was executed? </td>
+              <td> William Kidd </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
           </tbody>
         </table>
       </div>
@@ -155,19 +203,3 @@
 
 
 <?php include('footer.php'); ?>
-
-
-<!--
-April 12th:
-A soul is composed of appetite, spirit, and what else? Logic.
-
-April 19th:
-Is the line extending from A connected to B or C? Which is it? C. (Careful! It’s connected to line C, which is question option B.)
-
-April 23rd:
-What event did Emperor Nero add to the Olympics so he could participate? Singing.
-
-April 25th:
-What’s the common usage of kakushinhan again, regarding an action you take? Knowing your actions are wrong.
-But the real kakushinhan is the opposite, right? So the opposite means… Conviction that you’re right.
--->
