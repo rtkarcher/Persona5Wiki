@@ -165,25 +165,95 @@
               <td> William Kidd </td>
             </tr>  
             <tr>
+              <td> 6/4 </td>
+              <td> The original blazers were named that thanks to a certain quality they had. Any idea what it was? </td>
+              <td> They were brightly colored </td>
+            </tr>  
+            <tr>
+              <td> 6/7 </td>
+              <td> What are red king crabs most biologically related to? </td>
+              <td> Hermit crabs </td>
+            </tr> 
+            <tr>
+              <td> 6/8 </td>
+              <td> With the advent of the color TV, something else started to appear in color. Do you know what it is? </td>
+              <td> Dreams </td>
+            </tr> 
+            <tr>
+              <td> 6/11 </td>
+              <td> Can you imagine how much gold has been excavated by humanity over the course of history? </td>
+              <td> Three Olympic-sized pools </td>
+            </tr> 
+            <tr>
+              <td> 6/13 </td>
+              <td> Paper money is issued by the Bank of Japan, but who issues the coins? </td>
+              <td> The government </td>
+            </tr> 
+            <tr>
+              <td> 6/15 </td>
+              <td> What would happen if you kept washing your hair with water that was contaminated with metal? </td>
+              <td> Change color </td>
+            </tr> 
+            <tr>
+              <td> 6/23 </td>
+              <td> Who is this woman, drawn as the High Priestess in most tarot decks? </td>
+              <td> Pope Joan </td>
+            </tr> 
+            <tr>
+              <td> 6/27 </td>
+              <td> In English, what does the term "cat-and-dog" weather refer to? </td>
+              <td> Heavy rain </td>
+            </tr> 
+            <tr>
+              <td> 6/29 </td>
+              <td> This character is the cursive form of a specific Kanji. Do you know which one it is? </td>
+              <td> Gold </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
               <td> # </td>
               <td> # </td>
               <td> # </td>
             </tr>  
-            <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
-            </tr> 
-            <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
-            </tr> 
-            <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
-            </tr> 
             <tr>
               <td> # </td>
               <td> # </td>
