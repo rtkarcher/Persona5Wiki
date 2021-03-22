@@ -76,12 +76,8 @@
             </tr>
             <tr>
               <td> 5/10 </td>
-              <td> What do you think is the origin of the term "magistrate's patronage?"
-
- </td>
-              <td> Minamoto no Yoshitsune
-
- </td>
+              <td> What do you think is the origin of the term "magistrate's patronage?" </td>
+              <td> Minamoto no Yoshitsune </td>
             </tr>
             <tr>
               <td> 5/11 </td>
@@ -210,40 +206,195 @@
               <td> Gold </td>
             </tr> 
             <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
+              <td> 7/1 </td>
+              <td> Do you know what Chinese dish Zhuge Liang is credited for inventing? </td>
+              <td> Baozi </td>
             </tr> 
             <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
+              <td> 7/4 </td>
+              <td> Do you know the reason why July and August both have 31 days? </td>
+              <td> Someone pretentious said so </td>
             </tr> 
             <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
+              <td> 7/7 </td>
+              <td> What is the traditional food of Tanabata? </td>
+              <td> Soumen </td>
             </tr> 
             <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
+              <td> 7/8 </td>
+              <td> What's a common trait of almost all shaved ice syrups on the market? </td>
+              <td> They all have the same flavor </td>
             </tr> 
             <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
+              <td> 7/9 </td>
+              <td> What is the sum of angles A through E? </td>
+              <td> 180 degrees </td>
             </tr> 
             <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
+              <td> 7/11 </td>
+              <td> What is the name of the light-producing substance in fireflies? </td>
+              <td> Luciferin </td>
             </tr> 
             <tr>
-              <td> # </td>
-              <td> # </td>
-              <td> # </td>
+              <td> 7/12 </td>
+              <td> What was the name of the gentleman thief whose family was boiled alive during the Sengoku period? </td>
+              <td> Ishikawa Goemon </td>
             </tr>
+            <tr>
+              <td> 7/13 </td>
+              <td> <strong>EXAMS</strong> </td>
+              <td>  </td>
+            </tr>
+            <tr>
+              <td> </td>
+              <td> Which of these phrases has its origins in this shogi piece? </td>
+              <td> Nouveau riche </td>
+            </tr> 
+            <tr>
+              <td> </td>
+              <td> Goemon was popular because he wasn't just a thief, he was a ... ? </td>
+              <td> Gentleman thief </td>
+            </tr>  
+            <tr>
+              <td> </td>
+              <td> And the person in power who had it in for Goemon was ... ? </td>
+              <td> Toyotomi Hideyoshi </td>
+            </tr> 
+            <tr>
+              <td> </td>
+              <td> And, Goemon's death after he got captured by Hideyoshi is famous too ... ? </td>
+              <td> He was boiled alive </td>
+            </tr>
+            <tr>
+              <td> 7/14 </td>
+              <td> <strong>EXAMS</strong> </td>
+              <td>  </td>
+            </tr> 
+            <tr>
+              <td> </td>
+              <td> Which of the following statements are true of this organism? </td>
+              <td> It's not related to crabs </td>
+            </tr> 
+            <tr>
+              <td> </td>
+              <td> What is said to be the reason why people began dreaming in color? </td>
+              <td> Television </td>
+            </tr>  
+            <tr>
+              <td> 7/15 </td>
+              <td> <strong>EXAMS</strong> </td>
+              <td>  </td>
+            </tr>
+            <tr>
+              <td> </td>
+              <td> Which one of these was made using the silver ratio? </td>
+              <td> B-4 size paper </td>
+            </tr> 
+            <tr>
+              <td> </td>
+              <td> Define "syn" and "aisthesis," the Greek root words of "synesthesia." </td>
+              <td> Together and senses </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
             <tr>
               <td> # </td>
               <td> # </td>
