@@ -296,6 +296,66 @@
               <td> Together and senses </td>
             </tr> 
             <tr>
+              <td> 9/3 </td>
+              <td> In this famous statue, he's holding a spear in hist left hand, but what does he have in his right? </td>
+              <td> Nothing </td>
+            </tr> 
+            <tr>
+              <td> 9/6 </td>
+              <td> What is the name of the phenomenon where the second hand looks like it stops moving? </td>
+              <td> Chronostasis </td>
+            </tr>  
+            <tr>
+              <td> 9/14 </td>
+              <td> Second-hand shops are also known as thrift stores. Do you know when the earliest ones appeared? </td>
+              <td> The 19th century </td>
+            </tr> 
+            <tr>
+              <td> 9/17 </td>
+              <td> We have a saying in Japanese: a skilled hawk hides its talons. What hides its claws in English? </td>
+              <td> A cat </td>
+            </tr> 
+            <tr>
+              <td> 9/21 </td>
+              <td> The word "robot" didn't come from English. So, what country did it come from? </td>
+              <td> Czechoslovakia </td>
+            </tr> 
+            <tr>
+              <td> 9/24 </td>
+              <td> Do you know why they chose black and white? </td>
+              <td> So it shows up well on TV </td>
+            </tr>  
+            <tr>
+              <td> 9/28 </td>
+              <td> So "PVS," referring to when you mistakenly think your phone is going off... What's the P? </td>
+              <td> Phantom </td>
+            </tr> 
+            <tr>
+              <td>  </td>
+              <td> The next part is the V part. That means it'd be "phantom..." what? </td>
+              <td> Vibration </td>
+            </tr> 
+            <tr>
+              <td>  </td>
+              <td> Last is the S. So if we have "phantom vibration" so far...? </td>
+              <td> Syndrome </td>
+            </tr> 
+            <tr>
+              <td> 9/29 </td>
+              <td> Not all civil servants work in government offices. Which of these occupations is a civil one? </td>
+              <td> Fishermen of Nagaragawa </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
               <td> # </td>
               <td> # </td>
               <td> # </td>
@@ -315,6 +375,66 @@
               <td> # </td>
               <td> # </td>
             </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>  
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr> 
+            <tr>
+              <td> # </td>
+              <td> # </td>
+              <td> # </td>
+            </tr>
             <tr>
               <td> # </td>
               <td> # </td>
